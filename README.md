@@ -12,4 +12,12 @@ A Natural Language Processing project based on Restaurant reviews.
 
 ## The Project Explanation is also published on the Medium Publication Analytics Vidya
 
-## [Analytics Vidya](https://medium.com/analytics-vidhya "Analytics Vidya")
+[Analytics Vidya](https://medium.com/analytics-vidhya "Analytics Vidya")
+
+1. [Part 1](https://medium.com/analytics-vidhya/natural-language-processing-with-restaurant-reviews-part-1-46e228585a32)
+
+2. [Part 2](https://medium.com/analytics-vidhya/natural-language-processing-with-restaurant-reviews-part-2-ad240d1a7393)
+
+3. [Part 3](https://medium.com/analytics-vidhya/natural-language-processing-with-restaurant-reviews-part-3-2e08da61b8e5)
+
+Developed by- Prateek Majumder

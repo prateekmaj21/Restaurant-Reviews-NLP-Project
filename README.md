@@ -10,4 +10,4 @@ A Natural Language Processing project based on Restaurant reviews.
 
 4. RuntimeFile.py   (executable python file)
 
-# The Project Explanation is also published on the Medium Publication [Analytics Vidya](https://medium.com/analytics-vidhya){:target="_blank" rel="noopener"}
+## The Project Explanation is also published on the Medium Publication [Analytics Vidya](https://medium.com/analytics-vidhya){:target="_blank"}

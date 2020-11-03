@@ -12,4 +12,4 @@ A Natural Language Processing project based on Restaurant reviews.
 
 ## The Project Explanation is also published on the Medium Publication Analytics Vidya
 
-## Analytics Vidya- [Analytics Vidya](https://medium.com/analytics-vidhya "Analytics Vidya")
+## [Analytics Vidya](https://medium.com/analytics-vidhya "Analytics Vidya")
